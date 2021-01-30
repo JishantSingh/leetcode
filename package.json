@@ -1,0 +1,8 @@
+{
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "daily leetcode practice",
+    "devDependencies": {
+        "typescript": "^4.1.3"
+    }
+}
