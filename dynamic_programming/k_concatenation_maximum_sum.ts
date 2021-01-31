@@ -1,4 +1,5 @@
 /**
+ * https://leetcode.com/problems/k-concatenation-maximum-sum/
  * let arrSum = ∑arr,
  * case 1: k=0 => ans = 0
  * case 2: k=1 => ans = kadane(arr)
